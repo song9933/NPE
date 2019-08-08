@@ -1,5 +1,7 @@
 package vo;
 
+import util.CommUtil;
+
 public class AdminVO {
 	public static void main(String[] args) {
 		CommUtil util = new CommUtil();
